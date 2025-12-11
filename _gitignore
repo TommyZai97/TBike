@@ -1,6 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/TBike/.vs/TelerikWpfApp1/v15/Server/sqlite3/db.lock
-/.vs/TBike/v15/Server/sqlite3/db.lock

@@ -1,0 +1,12 @@
+C:\Users\New User\Projects\Tests\TBike\src\TBike.Domain\bin\Debug\net8.0\TBike.Domain.deps.json
+C:\Users\New User\Projects\Tests\TBike\src\TBike.Domain\bin\Debug\net8.0\TBike.Domain.dll
+C:\Users\New User\Projects\Tests\TBike\src\TBike.Domain\bin\Debug\net8.0\TBike.Domain.pdb
+C:\Users\New User\Projects\Tests\TBike\src\TBike.Domain\obj\Debug\net8.0\TBike.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\Projects\Tests\TBike\src\TBike.Domain\obj\Debug\net8.0\TBike.Domain.AssemblyInfoInputs.cache
+C:\Users\New User\Projects\Tests\TBike\src\TBike.Domain\obj\Debug\net8.0\TBike.Domain.AssemblyInfo.cs
+C:\Users\New User\Projects\Tests\TBike\src\TBike.Domain\obj\Debug\net8.0\TBike.Domain.csproj.CoreCompileInputs.cache
+C:\Users\New User\Projects\Tests\TBike\src\TBike.Domain\obj\Debug\net8.0\TBike.Domain.sourcelink.json
+C:\Users\New User\Projects\Tests\TBike\src\TBike.Domain\obj\Debug\net8.0\TBike.Domain.dll
+C:\Users\New User\Projects\Tests\TBike\src\TBike.Domain\obj\Debug\net8.0\refint\TBike.Domain.dll
+C:\Users\New User\Projects\Tests\TBike\src\TBike.Domain\obj\Debug\net8.0\TBike.Domain.pdb
+C:\Users\New User\Projects\Tests\TBike\src\TBike.Domain\obj\Debug\net8.0\ref\TBike.Domain.dll
